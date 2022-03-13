@@ -4,8 +4,10 @@
       a root organizations no me ha funcionado. He probado a asociar otra cuenta distinta, pero no he sabido hacerlo funcionar.
             
 #2.- La aplicación está funcionando correctamente y persistiendo los datos:
-      ARN de rol de auditor: arn:aws:iam::452977502702:role/auditoria-profesor
-      DNS Name del balanceador: LB-Keepcoding-Practica-2054215825.eu-west-1.elb.amazonaws.com
+      ARN de rol de auditor:
+        arn:aws:iam::452977502702:role/auditoria-profesor
+      DNS Name del balanceador:
+        LB-Keepcoding-Practica-2054215825.eu-west-1.elb.amazonaws.com
       En el repositorio he subido el fichero captura_webapp_OK.png que es una captura de pantala con la webapp en funcionamiento
       
 #3.- Despliegue de los componentes como IaaC, con Terraform:
